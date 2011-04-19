@@ -1,7 +1,7 @@
 class CantTouchMe
   def initialize
     @response="no"
-    @runner = CanTouchMe.new(self)
+    @runner = CanTouchMe::Runner.new(self)
   end
 
   def do_it

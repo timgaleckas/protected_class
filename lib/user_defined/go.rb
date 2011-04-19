@@ -1,5 +1,5 @@
-class CanTouchMe
+class CanTouchMe::Runner
   def running
-    "I can do whatever"
+    puts "yes"
   end
 end
