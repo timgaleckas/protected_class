@@ -1,0 +1,5 @@
+The game is simple. You can add anything to the user_defined directory but nowhere else.
+
+run ruby -W0 go.rb from the root
+
+succeed in getting line:7 of go.rb to execute and print out "pass"
